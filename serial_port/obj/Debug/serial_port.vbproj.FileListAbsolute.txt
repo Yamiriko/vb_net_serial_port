@@ -1,0 +1,10 @@
+F:\Projek Timbangan\serial_port\serial_port\bin\Debug\serial_port.exe
+F:\Projek Timbangan\serial_port\serial_port\bin\Debug\serial_port.pdb
+F:\Projek Timbangan\serial_port\serial_port\bin\Debug\serial_port.xml
+F:\Projek Timbangan\serial_port\serial_port\obj\Debug\serial_port.vbprojAssemblyReference.cache
+F:\Projek Timbangan\serial_port\serial_port\obj\Debug\serial_port.Form1.resources
+F:\Projek Timbangan\serial_port\serial_port\obj\Debug\serial_port.Resources.resources
+F:\Projek Timbangan\serial_port\serial_port\obj\Debug\serial_port.vbproj.GenerateResource.cache
+F:\Projek Timbangan\serial_port\serial_port\obj\Debug\serial_port.exe
+F:\Projek Timbangan\serial_port\serial_port\obj\Debug\serial_port.xml
+F:\Projek Timbangan\serial_port\serial_port\obj\Debug\serial_port.pdb
